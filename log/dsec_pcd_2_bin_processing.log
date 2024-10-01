@@ -1,0 +1,192 @@
+2024-09-07 10:10:04,127 - INFO - Start processing DSEC point cloud datasets
+2024-09-07 10:10:04,127 - INFO - Topic name: /velodyne_points
+2024-09-07 10:10:04,128 - INFO - Data path: /media/max/GAME/MA/datasets/DSEC/data
+2024-09-07 10:10:04,128 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/lidar_imu.bag
+2024-09-07 10:10:04,128 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/lidar_imu.bag
+2024-09-07 10:10:04,128 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/thun_00/lidar_imu.bag
+2024-09-07 10:10:04,129 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/thun_01/lidar_imu.bag
+2024-09-07 10:10:04,129 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/lidar_imu.bag
+2024-09-07 10:10:04,129 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/lidar_imu.bag
+2024-09-07 10:10:04,129 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/lidar_imu.bag
+2024-09-07 10:10:04,130 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/lidar_imu.bag
+2024-09-07 10:10:04,130 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/lidar_imu.bag
+2024-09-07 10:10:04,130 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/lidar_imu.bag
+2024-09-07 10:10:04,130 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/lidar_imu.bag
+2024-09-07 10:10:04,131 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/lidar_imu.bag
+2024-09-07 10:10:04,131 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/lidar_imu.bag
+2024-09-07 10:10:04,131 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/lidar_imu.bag
+2024-09-07 10:10:04,131 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/lidar_imu.bag
+2024-09-07 10:10:04,132 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/lidar_imu.bag
+2024-09-07 10:10:04,132 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/lidar_imu.bag
+2024-09-07 10:10:04,132 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/lidar_imu.bag
+2024-09-07 10:10:04,132 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/lidar_imu.bag
+2024-09-07 10:10:04,133 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/lidar_imu.bag
+2024-09-07 10:10:04,134 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/lidar_imu.bag
+2024-09-07 10:10:06,518 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/velodyne
+2024-09-07 10:10:06,520 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/cam_to_lidar.yaml
+2024-09-07 10:10:06,521 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/lidar_imu.bag
+2024-09-07 10:10:06,864 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/velodyne
+2024-09-07 10:10:06,868 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/cam_to_lidar.yaml
+2024-09-07 10:10:06,869 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/thun_00/lidar_imu.bag
+2024-09-07 10:10:07,339 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/thun_00/velodyne
+2024-09-07 10:10:07,341 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/thun_00/cam_to_lidar.yaml
+2024-09-07 10:10:07,341 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/thun_01/lidar_imu.bag
+2024-09-07 10:10:07,832 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/thun_01/velodyne
+2024-09-07 10:10:07,834 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/thun_01/cam_to_lidar.yaml
+2024-09-07 10:10:07,834 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/lidar_imu.bag
+2024-09-07 10:10:08,835 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/velodyne
+2024-09-07 10:10:08,838 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/cam_to_lidar.yaml
+2024-09-07 10:10:08,838 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/lidar_imu.bag
+2024-09-07 10:10:10,741 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/velodyne
+2024-09-07 10:10:10,742 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/cam_to_lidar.yaml
+2024-09-07 10:10:10,743 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/lidar_imu.bag
+2024-09-07 10:10:13,185 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/velodyne
+2024-09-07 10:10:13,187 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/cam_to_lidar.yaml
+2024-09-07 10:10:13,187 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/lidar_imu.bag
+2024-09-07 10:10:13,322 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/velodyne
+2024-09-07 10:10:13,324 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/cam_to_lidar.yaml
+2024-09-07 10:10:13,324 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/lidar_imu.bag
+2024-09-07 10:10:15,901 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/velodyne
+2024-09-07 10:10:15,903 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/cam_to_lidar.yaml
+2024-09-07 10:10:15,903 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/lidar_imu.bag
+2024-09-07 10:10:16,674 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/velodyne
+2024-09-07 10:10:16,676 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/cam_to_lidar.yaml
+2024-09-07 10:10:16,676 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/lidar_imu.bag
+2024-09-07 10:10:17,414 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/velodyne
+2024-09-07 10:10:17,416 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/cam_to_lidar.yaml
+2024-09-07 10:10:17,416 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/lidar_imu.bag
+2024-09-07 10:10:17,927 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/velodyne
+2024-09-07 10:10:17,929 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/cam_to_lidar.yaml
+2024-09-07 10:10:17,929 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/lidar_imu.bag
+2024-09-07 10:10:18,381 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/velodyne
+2024-09-07 10:10:18,383 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/cam_to_lidar.yaml
+2024-09-07 10:10:18,384 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/lidar_imu.bag
+2024-09-07 10:10:20,250 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/velodyne
+2024-09-07 10:10:20,252 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/cam_to_lidar.yaml
+2024-09-07 10:10:20,252 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/lidar_imu.bag
+2024-09-07 10:10:21,689 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/velodyne
+2024-09-07 10:10:21,690 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/cam_to_lidar.yaml
+2024-09-07 10:10:21,691 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/lidar_imu.bag
+2024-09-07 10:10:23,044 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/velodyne
+2024-09-07 10:10:23,046 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/cam_to_lidar.yaml
+2024-09-07 10:10:23,046 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/lidar_imu.bag
+2024-09-07 10:10:23,584 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/velodyne
+2024-09-07 10:10:23,586 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/cam_to_lidar.yaml
+2024-09-07 10:10:23,586 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/lidar_imu.bag
+2024-09-07 10:10:24,389 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/velodyne
+2024-09-07 10:10:24,391 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/cam_to_lidar.yaml
+2024-09-07 10:10:24,391 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/lidar_imu.bag
+2024-09-07 10:10:25,437 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/velodyne
+2024-09-07 10:10:25,438 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/cam_to_lidar.yaml
+2024-09-07 10:10:25,439 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/lidar_imu.bag
+2024-09-07 10:10:25,942 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/velodyne
+2024-09-07 10:10:25,944 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/cam_to_lidar.yaml
+2024-09-07 10:10:49,520 - INFO - Start processing DSEC point cloud datasets
+2024-09-07 10:10:49,520 - INFO - Topic name: /velodyne_points
+2024-09-07 10:10:49,520 - INFO - Data path: /media/max/GAME/MA/datasets/DSEC/data
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/lidar_imu.bag
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/lidar_imu.bag
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/thun_00/lidar_imu.bag
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/thun_01/lidar_imu.bag
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/lidar_imu.bag
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/lidar_imu.bag
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/lidar_imu.bag
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/lidar_imu.bag
+2024-09-07 10:10:49,520 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/lidar_imu.bag
+2024-09-07 10:10:49,521 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/lidar_imu.bag
+2024-09-07 10:10:49,522 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/lidar_imu.bag
+2024-09-07 10:10:49,522 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/lidar_imu.bag
+2024-09-07 10:10:49,522 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/lidar_imu.bag
+2024-09-07 10:10:51,923 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/velodyne
+2024-09-07 10:10:51,925 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/cam_to_lidar.yaml
+2024-09-07 10:13:36,778 - INFO - Start processing DSEC point cloud datasets
+2024-09-07 10:13:36,778 - INFO - Topic name: /velodyne_points
+2024-09-07 10:13:36,778 - INFO - Data path: /media/max/GAME/MA/datasets/DSEC/data
+2024-09-07 10:13:36,778 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/lidar_imu.bag
+2024-09-07 10:13:36,778 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/lidar_imu.bag
+2024-09-07 10:13:36,778 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/thun_00/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/thun_01/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/lidar_imu.bag
+2024-09-07 10:13:36,779 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/lidar_imu.bag
+2024-09-07 10:13:36,780 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/lidar_imu.bag
+2024-09-07 10:13:36,780 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/lidar_imu.bag
+2024-09-07 10:13:36,780 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/lidar_imu.bag
+2024-09-07 10:13:36,780 - INFO - Added file path: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/lidar_imu.bag
+2024-09-07 10:13:36,780 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/lidar_imu.bag
+2024-09-07 10:13:39,231 - INFO - Created directory: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/velodyne
+2024-09-07 10:13:39,233 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/interlaken_00/cam_to_lidar.yaml
+2024-09-07 10:15:27,816 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/lidar_imu.bag
+2024-09-07 10:15:28,757 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/velodyne
+2024-09-07 10:15:28,759 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/interlaken_01/cam_to_lidar.yaml
+2024-09-07 10:15:54,745 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/thun_00/lidar_imu.bag
+2024-09-07 10:15:55,006 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/thun_00/velodyne
+2024-09-07 10:15:55,008 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/thun_00/cam_to_lidar.yaml
+2024-09-07 10:16:04,595 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/thun_01/lidar_imu.bag
+2024-09-07 10:16:05,115 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/thun_01/velodyne
+2024-09-07 10:16:05,117 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/thun_01/cam_to_lidar.yaml
+2024-09-07 10:16:30,517 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/lidar_imu.bag
+2024-09-07 10:16:31,586 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/velodyne
+2024-09-07 10:16:31,588 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_00/cam_to_lidar.yaml
+2024-09-07 10:17:51,890 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/lidar_imu.bag
+2024-09-07 10:17:54,171 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/velodyne
+2024-09-07 10:17:54,173 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_01/cam_to_lidar.yaml
+2024-09-07 10:20:44,403 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/lidar_imu.bag
+2024-09-07 10:20:47,224 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/velodyne
+2024-09-07 10:20:47,226 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_02/cam_to_lidar.yaml
+2024-09-07 10:24:09,751 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/lidar_imu.bag
+2024-09-07 10:24:09,913 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/velodyne
+2024-09-07 10:24:09,915 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_03/cam_to_lidar.yaml
+2024-09-07 10:24:28,746 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/lidar_imu.bag
+2024-09-07 10:24:31,527 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/velodyne
+2024-09-07 10:24:31,529 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_04/cam_to_lidar.yaml
+2024-09-07 10:27:53,754 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/lidar_imu.bag
+2024-09-07 10:27:54,979 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/velodyne
+2024-09-07 10:27:54,982 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_05/cam_to_lidar.yaml
+2024-09-07 10:29:17,460 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/lidar_imu.bag
+2024-09-07 10:29:18,044 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/velodyne
+2024-09-07 10:29:18,046 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_06/cam_to_lidar.yaml
+2024-09-07 10:29:57,470 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/lidar_imu.bag
+2024-09-07 10:29:58,136 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/velodyne
+2024-09-07 10:29:58,138 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_07/cam_to_lidar.yaml
+2024-09-07 10:30:40,030 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/lidar_imu.bag
+2024-09-07 10:30:40,537 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/velodyne
+2024-09-07 10:30:40,539 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_08/cam_to_lidar.yaml
+2024-09-07 10:31:11,791 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/lidar_imu.bag
+2024-09-07 10:31:13,920 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/velodyne
+2024-09-07 10:31:13,921 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_09/cam_to_lidar.yaml
+2024-09-07 10:33:54,282 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/lidar_imu.bag
+2024-09-07 10:33:55,530 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/velodyne
+2024-09-07 10:33:55,531 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_10/cam_to_lidar.yaml
+2024-09-07 10:35:25,685 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/lidar_imu.bag
+2024-09-07 10:35:26,939 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/velodyne
+2024-09-07 10:35:26,941 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_11/cam_to_lidar.yaml
+2024-09-07 10:36:55,278 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/lidar_imu.bag
+2024-09-07 10:36:55,702 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/velodyne
+2024-09-07 10:36:55,704 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_12/cam_to_lidar.yaml
+2024-09-07 10:37:19,011 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/lidar_imu.bag
+2024-09-07 10:37:19,702 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/velodyne
+2024-09-07 10:37:19,704 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_13/cam_to_lidar.yaml
+2024-09-07 10:38:10,847 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/lidar_imu.bag
+2024-09-07 10:38:11,708 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/velodyne
+2024-09-07 10:38:11,710 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_14/cam_to_lidar.yaml
+2024-09-07 10:39:06,687 - INFO - Start processing file: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/lidar_imu.bag
+2024-09-07 10:39:07,161 - INFO - Directory already exists: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/velodyne
+2024-09-07 10:39:07,163 - INFO - Loaded transformation matrix from: /media/max/GAME/MA/datasets/DSEC/data/zurich_city_15/cam_to_lidar.yaml
